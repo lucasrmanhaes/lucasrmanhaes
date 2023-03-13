@@ -1,5 +1,5 @@
-<div align="center">
-<h1>👋 Hello! Welcome to my Github profile.
+<div>
+<p align="center">👋 Hello! Welcome to my Github profile.
 <div/>
           
 <p> My name is Lucas and my nickname is "lucasmanhaes"!
