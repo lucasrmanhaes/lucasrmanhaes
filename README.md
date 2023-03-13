@@ -4,7 +4,7 @@
 
 <p>🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
 
-<p>🌱 On my journey I learned to use SO Debain and the Bash terminal, GIT code versioner, C/C++ language concepts, GCC compiler, and tests using Catch6
+<p>🌱 On my journey I learned to use SO Debain and the Bash terminal, GIT code versioner, C/C++ language concepts, GCC compiler, and tests using Catch2
 
 <p>🤔 I intend to work in the development of embedded systems
 
