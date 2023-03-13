@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! Welcome to my Github profile.
-<h2 align="center"> My name is Lucas and my nickname is "lucasmanhaes"!
+<p align="center"> My name is Lucas and my nickname is "lucasmanhaes"!
 
 <p align="center">🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
 
@@ -9,7 +9,7 @@
 
 <p align="center">⚡ I currently live in São Paulo
 
-<h3 align="center">## Tools and Technologies
+<h2>## Tools and Technologies
 
 <div display"flex">          
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
@@ -21,7 +21,7 @@
           
 <div/>          
 
-<h3 align="center">## I am learning
+<h2>## I am learning
 
 <div display"flex">           
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
