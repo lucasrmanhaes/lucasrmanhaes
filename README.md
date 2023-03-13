@@ -1,13 +1,13 @@
 <p align="center">👋 Hello! Welcome to my Github profile.
-<p align="center"> My name is Lucas and my nickname is "lucasmanhaes"!
+<p> My name is Lucas and my nickname is "lucasmanhaes"!
 
-<p align="center">🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
+<p>🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
 
-<p align="center">🌱 On my journey I learned to use SO Debain and the Bash terminal, GIT code versioner, C/C++ language concepts, GCC compiler, and tests using Catch6
+<p>🌱 On my journey I learned to use SO Debain and the Bash terminal, GIT code versioner, C/C++ language concepts, GCC compiler, and tests using Catch6
 
-<p align="center">🤔 I intend to work in the development of embedded systems
+<p>🤔 I intend to work in the development of embedded systems
 
-<p align="center">⚡ I currently live in São Paulo
+<p>⚡ I currently live in São Paulo
 
 <h3>## Tools and Technologies
 
