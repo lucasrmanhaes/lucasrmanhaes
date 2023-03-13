@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! Welcome to my Github profile.
+<p align="center">👋 Hello! Welcome to my Github profile.
 <p align="center"> My name is Lucas and my nickname is "lucasmanhaes"!
 
 <p align="center">🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
