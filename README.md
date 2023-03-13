@@ -12,7 +12,7 @@
 <h3>## Tools and Technologies
 
 <div display"flex">          
-<img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
+<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
