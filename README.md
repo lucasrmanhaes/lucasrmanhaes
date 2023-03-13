@@ -1,4 +1,4 @@
-<p align="center">👋 Hello! Welcome to my Github profile.
+<h1 align="center">👋 Hello! Welcome to my Github profile.
 <p> My name is Lucas and my nickname is "lucasmanhaes"!
 
 <p>🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
@@ -12,20 +12,20 @@
 <h3>## Tools and Technologies
 
 <div display"flex">          
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
           
 <div/>          
 
 <h3>## I am learning
 
 <div display"flex">           
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
-<img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
 <div/>      
