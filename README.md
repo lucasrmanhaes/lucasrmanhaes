@@ -9,7 +9,7 @@
 
 <p align="center">⚡ I currently live in São Paulo
 
-<h2>## Tools and Technologies
+<h3>## Tools and Technologies
 
 <div display"flex">          
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
@@ -21,7 +21,7 @@
           
 <div/>          
 
-<h2>## I am learning
+<h3>## I am learning
 
 <div display"flex">           
 <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
