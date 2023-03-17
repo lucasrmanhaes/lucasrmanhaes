@@ -4,7 +4,7 @@
 
 <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas, e gosto de Back-End 
 
-<p>🌱 Em minha jornada aprendi a usar SO Debain e o terminal Bash, versionador de código GIT, conceitos de linguagem C/C++, compilador GCC e testes unitários usando Catch2
+<p>🌱 Em minha jornada aprendi a usar o SO Debain e o terminal Bash, versionador de código GIT, conceitos de linguagem C/C++, compilador GCC e testes unitários usando Catch2
 
 <p>🤔 Pretendo trabalhar no desenvolvimento de sistemas embarcados
 
