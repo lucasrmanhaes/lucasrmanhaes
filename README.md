@@ -10,7 +10,7 @@
 
 <p>⚡ Atualmente moro em sao paulo
 
-<h3>## Ferramentas e tecnologias
+<h2>## Ferramentas e tecnologias
 
 <div display"flex">          
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
