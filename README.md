@@ -1,6 +1,6 @@
 <p align="center"> Olá! Bem-vindo ao meu perfil do Github.
           
-<p> Meu nome é Lucas
+<p>👋 Meu nome é Lucas
 
 <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas, e gosto de Back-End 
 
@@ -27,6 +27,6 @@
 <div display"flex">           
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
+<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />         
 <div/>      
