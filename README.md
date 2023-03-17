@@ -1,16 +1,16 @@
-<p align="center"> Hello! Welcome to my Github profile.
+<p align="center"> Olá! Bem-vindo ao meu perfil do Github.
           
-<p> My name is Lucas!
+<p> Meu nome é Lucas
 
-<p>🔭 Currently studying Systems Analysis and Development, and my focus is to act as Back-End dev
+<p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas, e gosto de Back-End 
 
-<p>🌱 On my journey I learned to use SO Debain and the Bash terminal, GIT code versioner, C/C++ language concepts, GCC compiler, and tests using Catch2
+<p>🌱 Em minha jornada aprendi a usar SO Debain e o terminal Bash, versionador de código GIT, conceitos de linguagem C/C++, compilador GCC e testes unitários usando Catch2
 
-<p>🤔 I intend to work in the development of embedded systems
+<p>🤔 Pretendo trabalhar no desenvolvimento de sistemas embarcados
 
-<p>⚡ I currently live in São Paulo
+<p>⚡ Atualmente moro em sao paulo
 
-<h3>## Tools and Technologies
+<h3>## Ferramentas e tecnologias
 
 <div display"flex">          
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
@@ -22,11 +22,11 @@
           
 <div/>          
 
-<h3>## I am learning
+<h3>## Estou aprendendo
 
 <div display"flex">           
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
+<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
 <div/>      
