@@ -6,7 +6,7 @@
 
 <p>🌱 Em minha jornada aprendi a usar o SO Debain e o terminal Bash, versionador de código GIT, conceitos de linguagem C/C++, compilador GCC e testes unitários usando Catch2
 
-<p>🤔 Pretendo trabalhar no desenvolvimento de sistemas embarcados
+<p>🤔 Gosto de trabalhar no desenvolvimento de sistemas embarcados
 
 <p>⚡ Atualmente moro em sao paulo
 
