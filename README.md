@@ -8,7 +8,7 @@
 
 <p>🤔 Gosto de trabalhar no desenvolvimento de sistemas embarcados
 
-<p>⚡ Atualmente moro em sao paulo
+<p>⚡ Atualmente moro em São Paulo
 
 <h2>## Ferramentas e tecnologias
 
