@@ -19,7 +19,6 @@
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
           
 <div/>          
 
