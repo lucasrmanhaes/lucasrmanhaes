@@ -4,7 +4,7 @@
 
 <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 
-<p>🌱 Em minha jornada aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java e Python, compilador GCC e Javac e Figma
+<p>🌱 Em minha jornada aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java e Python, compilador GCC e Javac
 
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, estou aberto a novas experiências
 
