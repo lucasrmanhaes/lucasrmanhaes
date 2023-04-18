@@ -2,11 +2,11 @@
           
 <p>👋 Meu nome é Lucas
 
-<p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas, e gosto de Back-End 
+<p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 
-<p>🌱 Em minha jornada aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C/C++, compilador GCC e testes unitários usando Catch2
+<p>🌱 Em minha jornada aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java e Python, compilador GCC e Javac e Figma
 
-<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, mas tenho mais vivencia com a linguagem C estou aberto a novas experiências
+<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, estou aberto a novas experiências
 
 <p>⚡ Atualmente moro em São Paulo
 
@@ -26,6 +26,7 @@
 
 <div display"flex">           
 
+<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />          
