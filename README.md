@@ -2,14 +2,13 @@
           
 <p>👋 Meu nome é Lucas
 
-<p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
+<p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP
 
-<p>🌱 Em minha jornada que comecei em 2014 e até então, aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java, Python, os databases SQL Server e o Oracle Database
-
-<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, estou aberto a novas experiências
+<p>🌱 Em minha jornada que comecei em 2014 no Senac Lapa Tito inicialmente aprendi estrutura de dados e lógica de programacão com a linguagem Visual Basic, junto com DB SQL Server, aprendi a criar Sistemas simples para o Windows com interfaces como calculadoras de juros simples, compostos, e um sistema de cadastro de usuários, infelizmente não pude disponibilizar aqui no meu repo pois faz muito tempo, e até então, aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, C, Java, Python, os databases SQL Server como já havia mencionado anteriormente e o Oracle Database, por conta própria no Alura e nano curses que a FIAP disponibiliza.         
+          
+<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, por mais que eu goste da sintaxe de C que é a minha linguagem favorita, estou aberto a novas experiências
 
 <p>⚡ Atualmente moro em São Paulo
-
           
 <h2># Ferramentas e tecnologias
 <div display"flex">          
