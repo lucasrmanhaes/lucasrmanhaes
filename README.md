@@ -4,7 +4,7 @@
 
 <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 
-<p>🌱 Em minha jornada que comecei em 2014 e até então, aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java e Python
+<p>🌱 Em minha jornada que comecei em 2014 e até então, aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, linguagem C, Java, Python, os databases SQL Server e o Oracle Database
 
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, estou aberto a novas experiências
 
