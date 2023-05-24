@@ -6,7 +6,7 @@
 
 <p>🌱 Em minha jornada que comecei em 2014 no Senac Lapa Tito, inicialmente aprendi estrutura de dados e lógica de programacão com a linguagem Visual Basic, junto com DB SQL Server, aprendi a criar sistemas simples para o Windows com interfaces como calculadoras de juros simples, compostos, e um sistema de cadastro de usuários. Infelizmente não pude disponibilizar aqui no meu repo pois faz muito anos, e até então, aprendi a usar o SO Debain e o CLI Bash, versionador de código GIT, C, Java e Oracle Database.     
           
-<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, por mais que eu goste da sintaxe de C que é a minha linguagem favorita e Java a linguagem moderna favorita, estou aberto a novas experiências.
+<p>🤔 Gosto de atuar no desenvolvimento de sistemas, não tenho preferencia de linguagens, por mais que eu goste da sintaxe de C que é a minha linguagem favorita e Java a linguagem moderna favorita.
 
 <p>⚡ Atualmente moro em São Paulo
           
