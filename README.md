@@ -28,7 +28,7 @@
 <h3># Estou aprendendo
 <div display"flex">              
 <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />     
-<img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img style="width: 45px; height: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
           
 
 <div/>
