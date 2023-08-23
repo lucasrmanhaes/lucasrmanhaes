@@ -4,7 +4,7 @@
 
 <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP
 
-<p>🌱 Em minha jornada utilizo tecnologias como: CLI Bash, Git, Figma, Bootstrap, JavaScript ES6, C, Java e Oracle Database.     
+<p>🌱 Em minha jornada utilizo tecnologias como: CLI Bash, Git, Figma, Bootstrap, JavaScript ES6, Java, Oracle Database e PostgreSQL.     
           
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas.
 
