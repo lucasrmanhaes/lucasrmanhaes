@@ -2,7 +2,7 @@
           
 <p>👋 Meu nome é Lucas
 
-<p>🔭 Em minha jornada utilizo tecnologias como: RHEL 9, Debian, CLI Bash, Git, Java, Spring, Spring Boot, Oracle DB e PostgreSQL.     
+<p>🔭 Em minha jornada utilizo tecnologias como: RHEL 8, Debian, CLI Bash, Git, Java, Spring, Spring Boot, Oracle DB e PostgreSQL.     
           
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas.
 
