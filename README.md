@@ -23,8 +23,8 @@
           
 <h3># Estou aprendendo
 <div display"flex">              
-<img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+<img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 
           
 
