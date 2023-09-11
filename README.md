@@ -10,8 +10,8 @@
           
 <h2># Ferramentas e tecnologias
 <div style="display"flex;">          
-<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />          
+<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
 <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
