@@ -4,7 +4,7 @@
 
 <p>🔭 Em minha jornada utilizo tecnologias como: RHEL 8, Debian, CLI Bash, Git, Java, Spring Boot, Oracle e PostgreSQL.     
           
-<p>🤔 Gosto de atuar no desenvolvimento de sistemas.
+<p>🤔 Gosto de atuar no desenvolvimento de sistemas robustos e escaláveis focado em serviços para clientes.
 
 <p>⚡ Atualmente moro em São Paulo
           
