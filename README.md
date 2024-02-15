@@ -23,7 +23,7 @@
           
 <h3># Estou aprendendo
 <div display"flex">
-<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />   
+<img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />   
 <img style="width: 35px; height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />   
 
 <div/>
