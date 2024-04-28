@@ -2,7 +2,7 @@
           
 <p>👋 Meu nome é Lucas
 
-<p>🔭 Em minha jornada utilizo tecnologias como: RHEL 8, Java, Kotlin, Jetpack Compose, Spring Boot, JPA, Hibernate, WebContainer Tomcat, Oracle, PostgreSQL e SQLite.     
+<p>🔭 Em minha jornada utilizo tecnologias como: Java, Kotlin, Jetpack Compose, Spring Boot, JPA, Hibernate, WebContainer Tomcat, Oracle, PostgreSQL e SQLite.     
           
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas robustos e escaláveis focado em serviços para clientes.
 
