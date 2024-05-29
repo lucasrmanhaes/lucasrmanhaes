@@ -2,7 +2,7 @@
           
 <p>👋 Meu nome é Lucas
 
-<p>🔭 Em minha jornada utilizo tecnologias como: Java, Spring Boot, Spring Security, Spring Data, Hibernate, Kotlin, Jetpack Compose, PostgreSQL, SQLite, AWS e Azure .     
+<p>🔭 Em minha jornada utilizo tecnologias como: Java, Spring Boot, Spring Security, Spring Data, Hibernate, Kotlin, Jetpack Compose, AWS e Azure .     
           
 <p>🤔 Gosto de atuar no desenvolvimento de sistemas robustos e escaláveis focado em serviços para clientes.
 
