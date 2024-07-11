@@ -1,13 +1,7 @@
 <p align="center"> Olá! Bem-vindo ao meu repositório do Github.
-          
-<p>👋 Meu nome é Lucas
-
-<p>🔭 Em minha jornada utilizo tecnologias como: Java, Spring Boot, Spring Security, Spring Data, Hibernate, Docker, AWS e Azure .     
-          
-<p>🤔 Gosto de atuar no desenvolvimento de sistemas robustos e escaláveis focado em serviços para clientes.
-
-<p>⚡ Atualmente moro em São Paulo
-          
+<p>👋 Meu nome é Lucas   
+<p>🔭 Sou desenvolvedor backend com habilidades em Java e experiência com Spring, Hibernate, banco de dados SQL e NoSQL. Familiarizado com Microsserviços. 
+<p>⚡ Meu objetivo é ampliar meu conhecimento e aplicar as melhores práticas no desenvolvimento de aplicações robustas, seguras e escaláveis.
 <h2># Ferramentas e tecnologias
 <div style="display"flex;">                    
 <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
